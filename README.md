@@ -5,6 +5,8 @@ Daftar mahasiswa penyusun tugas ini:
 1. **Rahmansyah** (NIM: 24.24.032255)
 2. **M. Fitriannur Akbar** (NIM: 24.24.031635)
 3. **Okta Ramadhani** (NIM: 24.24.032095)
+4. **Novy Astoty** (NIM: 24.24.032569)
+5. **Ruli Sihab** (NIM: 24.24.032834)
 
 * **Program Studi**: Pendidikan Teknologi Informasi
 * **Mata Kuliah**: Pemrograman Berorientasi Objek
